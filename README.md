@@ -56,70 +56,44 @@ I specialize in bridging the gap between complex ML research and production syst
 
 ### Featured Projects
 
-<div align="center">
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">AgentSync MCP</h3>
-<p align="center">
-<a href="https://github.com/RiyadMehdi7/agentsync">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RiyadMehdi7&repo=agentsync&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="AgentSync"/>
-</a>
-</p>
-<p align="center">Real-time coordination for multi-agent development — file locking, conflict detection, and AI-powered merge strategies via MCP</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01eiIvPjwvc3ZnPg==&logoColor=white" alt="MCP" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-</p>
+<td width="50%" valign="top">
+
+### [`AgentSync MCP`](https://github.com/RiyadMehdi7/agentsync)
+Real-time coordination for multi-agent development — file locking, conflict detection, and AI-powered merge strategies via MCP
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" alt="MCP" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+
 </td>
-<td width="50%">
-<h3 align="center">CHRONOS</h3>
-<p align="center">
-<a href="https://github.com/RiyadMehdi7/CHRONOS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RiyadMehdi7&repo=CHRONOS&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="CHRONOS"/>
-</a>
-</p>
-<p align="center">Causal-reinforcement framework for employee churn prediction with temporal survival modeling & budget-aware policy learning</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/DeepSurv-purple?style=flat-square" alt="DeepSurv" />
-</p>
+<td width="50%" valign="top">
+
+### [`CHRONOS`](https://github.com/RiyadMehdi7/CHRONOS)
+Causal-reinforcement framework for employee churn prediction with temporal survival modeling & budget-aware policy learning
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/DeepSurv-purple?style=flat-square" alt="DeepSurv" />
+
 </td>
 </tr>
 <tr>
-<td width="50%">
-<h3 align="center">DataAnalyticsByRiyad</h3>
-<p align="center">
-<a href="https://github.com/RiyadMehdi7/DataAnalityticsByRiyad">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RiyadMehdi7&repo=DataAnalityticsByRiyad&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="DataAnalyticsByRiyad"/>
-</a>
-</p>
-<p align="center">Collection of data science projects: clustering, regression, classification on real-world datasets</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-<img src="https://img.shields.io/badge/ML-blue?style=flat-square" alt="ML" />
-</p>
+<td width="50%" valign="top">
+
+### [`DataAnalyticsByRiyad`](https://github.com/RiyadMehdi7/DataAnalityticsByRiyad)
+Collection of data science projects: clustering, regression, classification on real-world datasets
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/ML-blue?style=flat-square" alt="ML" />
+
 </td>
-<td width="50%">
-<h3 align="center">ChurnVision</h3>
-<p align="center">
-<a href="https://github.com/RiyadMehdi7/churnvision-admin">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RiyadMehdi7&repo=churnvision-admin&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="ChurnVision"/>
-</a>
-</p>
-<p align="center">Admin platform for churn analytics with real-time dashboards and predictive modeling</p>
-<p align="center">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-</p>
+<td width="50%" valign="top">
+
+### [`ChurnVision`](https://github.com/RiyadMehdi7/churnvision_web_1_0)
+Admin platform for churn analytics with real-time dashboards and predictive modeling
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+
 </td>
 </tr>
 </table>
-</div>
 
 ---
 
