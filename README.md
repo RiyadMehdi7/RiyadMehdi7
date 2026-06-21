@@ -60,16 +60,16 @@ I specialize in bridging the gap between complex ML research and production syst
 <tr>
 <td width="50%" valign="top">
 
-### [`AgentSync MCP`](https://github.com/RiyadMehdi7/agentsync)
-Real-time coordination for multi-agent development — file locking, conflict detection, and AI-powered merge strategies via MCP
+<h3><a href="https://github.com/RiyadMehdi7/agentsync">AgentSync MCP</a></h3>
+<p>Real-time coordination for multi-agent development - file locking, conflict detection, and AI-powered merge strategies via MCP.</p>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" alt="MCP" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 
 </td>
 <td width="50%" valign="top">
 
-### [`CHRONOS`](https://github.com/RiyadMehdi7/CHRONOS)
-Causal-reinforcement framework for employee churn prediction with temporal survival modeling & budget-aware policy learning
+<h3><a href="https://github.com/RiyadMehdi7/CHRONOS">CHRONOS</a></h3>
+<p>Causal-reinforcement framework for employee churn prediction with temporal survival modeling and budget-aware policy learning.</p>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/DeepSurv-purple?style=flat-square" alt="DeepSurv" />
 
@@ -78,16 +78,16 @@ Causal-reinforcement framework for employee churn prediction with temporal survi
 <tr>
 <td width="50%" valign="top">
 
-### [`DataAnalyticsByRiyad`](https://github.com/RiyadMehdi7/DataAnalityticsByRiyad)
-Collection of data science projects: clustering, regression, classification on real-world datasets
+<h3><a href="https://github.com/RiyadMehdi7/DataAnalityticsByRiyad">DataAnalyticsByRiyad</a></h3>
+<p>Collection of data science projects: clustering, regression, and classification on real-world datasets.</p>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/ML-blue?style=flat-square" alt="ML" />
 
 </td>
 <td width="50%" valign="top">
 
-### [`ChurnVision`](https://github.com/RiyadMehdi7/churnvision_web_1_0)
-Admin platform for churn analytics with real-time dashboards and predictive modeling
+<h3>ChurnVision</h3>
+<p>Private admin platform for churn analytics with real-time dashboards and predictive modeling.</p>
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 
@@ -101,7 +101,7 @@ Admin platform for churn analytics with real-time dashboards and predictive mode
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RiyadMehdi7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RiyadMehdi7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=RiyadMehdi7&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak" />
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyadMehdi7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
