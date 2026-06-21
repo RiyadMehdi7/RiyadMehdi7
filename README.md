@@ -112,7 +112,7 @@ I specialize in bridging the gap between complex ML research and production syst
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RiyadMehdi7&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RiyadMehdi7&theme=react-dark&hide_border=true&area=true&area_color=58a6ff&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f78166&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
 
 </div>
 
