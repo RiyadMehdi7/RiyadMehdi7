@@ -4,7 +4,15 @@
 
 If an outcome is likely, I want to know **when the evidence was valid, why the outcome may happen, which action could change it, and how certain we should be**.
 
-I am a data scientist in Stockholm, currently at Kapital Bank. I build research prototypes and production software across causal inference, retrieval, language models, and decision support.
+I am a data scientist based in Stockholm, working on **Agentic AI at Tele2**. My focus is on AI agents, practical automation, and reliable systems that connect language models with tools and real workflows.
+
+I also build research prototypes and production software across causal inference, retrieval, language models, and decision support.
+
+## Current focus
+
+**Agentic AI · Tele2 · Stockholm**
+
+I am interested in turning AI capabilities into useful workflows: agents that use tools, retrieve relevant evidence, and support decisions with appropriate validation and human oversight.
 
 ## Four questions I keep working on
 
